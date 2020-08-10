@@ -1,0 +1,19 @@
+featureNames, activityLabels, subjectTrain, activityTrain, featuresTrain, 
+subjectTest, activityTest, featuresTest 
+: The name of data for each raw data sets
+
+
+subject 
+: Combined data set with subjectTrain & subjectTest
+
+activity 
+:Combined data set with activityTrain& activityTest
+
+features 
+:Combined data set with featuresTrain& featuresTest
+
+completeData 
+: merged data 
+
+extracted 
+: the data that has the variable containing "mean" and "standard deviation" in name 
